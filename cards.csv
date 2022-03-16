@@ -1,0 +1,13 @@
+Establishment,Type,Cost,Dice Roll,Earnings,Count
+Wheat Field,1,1,1,1,6
+Ranch,1,1,2,1,6
+Forest,1,3,5,1,6
+Mine,1,6,9,5,6
+Apple Orchard,1,3,10,3,6
+Bakery,2,1,2,1,6
+Bakery,2,1,3,1,6
+Convenience Store,2,2,4,3,6
+Cheese Factory,2,5,7,3 per ranch,6
+Furniture Factory,2,3,8,3 per forest and mine,6
+Fruit and Vegetable Market,2,2,11,2 per wheat field and apple orchard,6
+Fruit and Vegetable Market,2,2,12,2 per wheat field and apple orchard,6
